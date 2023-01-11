@@ -27,6 +27,11 @@
     "lodash": "^4.17.21"
   },
   "devDependencies": {
-    "webpack-cli": "^5.0.1"
+    "webpack-cli": "^5.0.1",
+    "heroku-prebuild": "npm install --dev"
+  },
+  "engines": {
+    "node": "17.1"
   }
+  
 }
